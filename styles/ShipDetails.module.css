@@ -1,0 +1,61 @@
+.ship_info {
+  /* border: 1px solid red; */
+  gap: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.no_image_alert {
+  color: #005288;
+  font-size: 1.5rem;
+}
+
+.ship_image {
+  position: relative;
+  height: 250px;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  /* border: 1px solid blue; */
+}
+
+.ship_image img {
+  align-self: flex-start;
+}
+
+.ship_more {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  font-size: 0.95em;
+  color: #272727;
+  /* border: 1px solid blue; */
+}
+
+.ship_info h3 {
+  color: #272727;
+  font-size: 2rem;
+}
+
+.ship_roles_section {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ship_roles {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.ship_role {
+  color: #005288;
+  border: 1px solid #005288;
+  padding: 0.125rem 0.5rem;
+}

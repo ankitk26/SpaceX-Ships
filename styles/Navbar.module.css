@@ -1,0 +1,24 @@
+.header {
+  background-color: #005288;
+  /* padding: 1rem; */
+}
+
+.navbar {
+  padding: 1rem 0;
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading {
+  color: #fafafa;
+  letter-spacing: 2px;
+  font-size: 1.5rem;
+}
+
+.navitem {
+  color: #fafafa;
+  font-size: 0.95em;
+}
