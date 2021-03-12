@@ -1,6 +1,6 @@
 import Meta from "../components/Meta";
 
-const about = () => {
+const About = () => {
   return (
     <>
       <Meta title="About" />
@@ -20,4 +20,4 @@ const about = () => {
   );
 };
 
-export default about;
+export default About;

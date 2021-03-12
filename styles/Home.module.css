@@ -51,6 +51,7 @@
 }
 
 .inactive {
+  font-weight: bold;
   background-color: #fafafa;
   color: #272727;
 }
